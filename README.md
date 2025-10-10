@@ -10,7 +10,7 @@ Each folder represents one project or task completed on a specific day — inclu
 
 **Internship Domain:** Data Science  
 **Organization:** [CodeAlpha](https://www.codealpha.tech/)  
-**Duration:** [Your Internship Duration Here — e.g., October 2025 - November 2025]  
+**Duration:** October 2025 - November 2025]  
 **Intern Role:** Data Science Intern  
 
 The goal of this internship is to apply various **Data Science, Machine Learning, and AI** concepts to solve real-world problems through hands-on projects.
@@ -72,10 +72,10 @@ Some of the key projects you’ll find here:
 
 ## 🧑‍💻 **Author**
 
-**👤 Name:** Johny Kumar
-**🎓 Role:** Data Science Intern @ CodeAlpha
-**🌐 GitHub:** [https://github.com/johnk0008](https://github.com/johnk0008)
-**💼 LinkedIn:** [https://www.linkedin.com/in/johnk0008]
+*👤 Name:** Johny Kumar
+*🎓 Role:** Data Science Intern @ CodeAlpha
+*🌐 GitHub:** [https://github.com/johnk0008](https://github.com/johnk0008)
+*💼 LinkedIn:** [https://www.linkedin.com/in/johnk0008]
 
 ---
 
@@ -98,9 +98,5 @@ This repository is for **educational and learning purposes** only.
 Feel free to explore, learn, and share with proper credit.
 
 ---
-
 **📅 Updated Daily • 🚀 Built with Passion for Data Science**
-
-````
-
 ---
