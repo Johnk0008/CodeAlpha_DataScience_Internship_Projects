@@ -19,9 +19,12 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 
 ## 📅 **Daily Project Upload Log**
 
-| Day | Project Title | Topics Covered  |
-|-----|----------------|----------------|
-| 01 | Flashcard Quiz App | e.g., CRUD operations, JSON data persistence, Modern CustomTkinter GUI |
+
+| Day | Topic/Practice | Commit Link |
+|-----|----------------|-------------|
+| 01 | Flashcard Quiz App | [View Code](./App Development Tasks ) |
+| 02 | Random Quote Generator | [View Code](./App Development Tasks ) |
+
 
 
 > 🗓️ This table will be updated **daily** as new projects are added.
@@ -98,5 +101,5 @@ This repository is for **educational and learning purposes** only.
 Feel free to explore, learn, and share with proper credit.
 
 ---
-**📅 Updated Daily • 🚀 Built with Passion for Data Science**
+**📅 Updated Daily •   🚀 Built with Passion for Data Science**
 ---
