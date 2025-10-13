@@ -22,9 +22,12 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 
 | Day | Topic/Practice | Commit Link |
 |-----|----------------|-------------|
-| 01 | Flashcard Quiz App | [View Code](./App Development Tasks ) |
-| 02 | Random Quote Generator | [View Code](./App Development Tasks ) |
-
+| 01 | Flashcard Quiz App | [View Code](./App Development Projects) |
+| 02 | Random Quote Generator | [View Code](./App Development Projects) |
+| 03 | Language Translation Tool | [View Code](./Artificial Intelligence Projects) |
+| 04 | Chatbot for FAQs | [View Code](./Artificial Intelligence Projects) |
+| 05 | 2D Drafting – Floor Plan  | [View Code](./ AutoCAD Projects) |
+| 06 | Mechanical Drawing – Machine Part  | [View Code](./ AutoCAD Projects) |
 
 
 > 🗓️ This table will be updated **daily** as new projects are added.
@@ -101,5 +104,6 @@ This repository is for **educational and learning purposes** only.
 Feel free to explore, learn, and share with proper credit.
 
 ---
-**📅 Updated Daily •   🚀 Built with Passion for Data Science**
+**📅 Updated Daily •   
+🚀 Built with Passion for Data Science**
 ---
