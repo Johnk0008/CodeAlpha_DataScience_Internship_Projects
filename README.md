@@ -28,6 +28,10 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 04 | Chatbot for FAQs | [View Code](./Artificial Intelligence Projects) |
 | 05 | 2D Drafting – Floor Plan  | [View Code](./ AutoCAD Projects) |
 | 06 | Mechanical Drawing – Machine Part  | [View Code](./ AutoCAD Projects) |
+| 07 | Simple URL Shortener   | [View Code](./Backend Development Projects/Simple URL Shortener) |
+| 08 | Event Registration System   | [View Code](./Backend Development Projects/Event Registration System) |
+
+
 
 
 > 🗓️ This table will be updated **daily** as new projects are added.
