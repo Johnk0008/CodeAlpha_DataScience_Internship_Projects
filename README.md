@@ -32,8 +32,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 08 | Event Registration System   | [View Code](./Backend Development Projects/Event Registration System) |
 | 09 | DNA/Protein Sequence Analysis   | [View Code](./Bioinformatics Projects /dna_sequence_analysis |
 | 10 | Bioinformatics Database/Tool Study   | [View Code](./Bioinformatics Projects /bioinformatics-ml-project |
-
-
+| 11 | Research Report - Recent Advancements in Genetic Engineering   | [View Code](./Biotechnology Projects  /genetic_engineering_project |
+| 12 | Case Study Analysis about "Moderna's mRNA Innovation"   | [View Code](./Biotechnology Projects  /Moderna-Programming-the-Medicine-of-the-Future-with-mRNA.pptx |
 
 
 
