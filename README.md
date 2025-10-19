@@ -39,6 +39,9 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 15 | market_research_pdf   | [View Code](./market_research_pdf |
 | 16 | Business Growth Strategy Proposal   | [View Code](./Business Growth Strategy Proposal.pdf |
 | 17 | calculator-project   | [View Code](./calculator-project |
+| 18 | Banking System Development in C and Python   | [View Code](./banking_system|
+| 19 | CGPA Calculator   | [View Code](./cgpa_calculator |
+| 20 | Login and Registration System   | [View Code](./login_system |
 
 
 
