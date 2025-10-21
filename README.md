@@ -22,26 +22,28 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 
 | Day | Topic/Practice | Commit Link |
 |-----|----------------|-------------|
-| 01 | Flashcard Quiz App | [View Code](./App Development Projects) |
-| 02 | Random Quote Generator | [View Code](./App Development Projects) |
-| 03 | Language Translation Tool | [View Code](./Artificial Intelligence Projects) |
-| 04 | Chatbot for FAQs | [View Code](./Artificial Intelligence Projects) |
-| 05 | 2D Drafting – Floor Plan  | [View Code](./ AutoCAD Projects) |
-| 06 | Mechanical Drawing – Machine Part  | [View Code](./ AutoCAD Projects) |
-| 07 | Simple URL Shortener   | [View Code](./Backend Development Projects/Simple URL Shortener) |
-| 08 | Event Registration System   | [View Code](./Backend Development Projects/Event Registration System) |
-| 09 | DNA/Protein Sequence Analysis   | [View Code](./Bioinformatics Projects /dna_sequence_analysis) |
-| 10 | Bioinformatics Database/Tool Study   | [View Code](./Bioinformatics Projects /bioinformatics-ml-project) |
-| 11 | Research Report - Recent Advancements in Genetic Engineering   | [View Code](./Biotechnology Projects  /genetic_engineering_project) |
-| 12 | Case Study Analysis about "Moderna's mRNA Innovation"   | [View Code](./Biotechnology Projects  /Moderna-Programming-the-Medicine-of-the-Future-with-mRNA.pptx) |
-| 13 | Simple Storage Smart Contract   | [View Code](./Blockchain Development Projects/simple-storage-app)|
-| 14 | Polling System Smart Contract   | [View Code](./Blockchain Development Projects/polling-smart-contract) |
-| 15 | market_research_pdf   | [View Code](./market_research_pdf) |
-| 16 | Business Growth Strategy Proposal   | [View Code](./Business Growth Strategy Proposal.pdf) |
-| 17 | calculator-project   | [View Code](./calculator-project) |
-| 18 | Banking System Development in C and Python   | [View Code](./banking_system)|
-| 19 | CGPA Calculator   | [View Code](./cgpa_calculator) |
-| 20 | Login and Registration System   | [View Code](./login_system) |
+| 01 | Flashcard Quiz App | (./App Development Projects) |
+| 02 | Random Quote Generator | (./App Development Projects) |
+| 03 | Language Translation Tool | (./Artificial Intelligence Projects) |
+| 04 | Chatbot for FAQs | (./Artificial Intelligence Projects) |
+| 05 | 2D Drafting – Floor Plan  | (./ AutoCAD Projects) |
+| 06 | Mechanical Drawing – Machine Part  | (./ AutoCAD Projects) |
+| 07 | Simple URL Shortener   | (./Backend Development Projects/Simple URL Shortener) |
+| 08 | Event Registration System   |(./Backend Development Projects/Event Registration System) |
+| 09 | DNA/Protein Sequence Analysis   | (./Bioinformatics Projects /dna_sequence_analysis) |
+| 10 | Bioinformatics Database/Tool Study   | (./Bioinformatics Projects /bioinformatics-ml-project) |
+| 11 | Research Report - Recent Advancements in Genetic Engineering   | (./Biotechnology Projects  /genetic_engineering_project) |
+| 12 | Case Study Analysis about "Moderna's mRNA Innovation"   |(./Biotechnology Projects  /Moderna-Programming-the-Medicine-of-the-Future-with-mRNA.pptx) |
+| 13 | Simple Storage Smart Contract   | (./Blockchain Development Projects/simple-storage-app)|
+| 14 | Polling System Smart Contract   | (./Blockchain Development Projects/polling-smart-contract) |
+| 15 | market_research_pdf   | (./market_research_pdf) |
+| 16 | Business Growth Strategy Proposal   | (./Business Growth Strategy Proposal.pdf) |
+| 17 | calculator-project   | (./calculator-project) |
+| 18 | Banking System Development in C and Python   | (./banking_system)|
+| 19 | CGPA Calculator   | (./cgpa_calculator) |
+| 20 | Login and Registration System   | (./login_system) |
+| 21 | data_leak_prevention   | (./data_leak_prevention) |
+| 22 | bus-pass-system   | (./bus-pass-system) |
 
 
 
