@@ -44,7 +44,9 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 20 | Login and Registration System   | (./login_system) |
 | 21 | data_leak_prevention   | (./data_leak_prevention) |
 | 22 | bus-pass-system   | (./bus-pass-system) |
-
+| 23 | Blog Article for CodeAlpha    | (./CodeAlpha_Blog_Article_Internships_Career_Catalyst.pdf) |
+| 24 | Research Report on Education/Tech Trends   | (./Research Report_ How Virtual Internships Improve Employability.pdf) |
+| 25 | Case Study on CodeAlpha Intern Success   | (./CodeAlpha_Intern_Success_Article.pdf) |
 
 
 
