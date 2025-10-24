@@ -48,7 +48,9 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 24 | Research Report on Education/Tech Trends   | (./Research Report_ How Virtual Internships Improve Employability.pdf) |
 | 25 | Case Study on CodeAlpha Intern Success   | (./CodeAlpha_Intern_Success_Article.pdf) |
 | 26 | network_sniffer   | (./network_sniffer) |
-| 27 |phishing_awareness_training   | (./phishing_awareness_training) |
+| 27 | phishing_awareness_training   | (./phishing_awareness_training) |
+| 28 | Web Scraping   | (./web_scraping_project) |
+| 29 | Data Visualization   | (./data-visualization-project) |
 
 
 
@@ -127,5 +129,7 @@ Feel free to explore, learn, and share with proper credit.
 
 ---
 **📅 Updated Daily •   
+
 🚀 Built with Passion for Data Science**
+
 ---
