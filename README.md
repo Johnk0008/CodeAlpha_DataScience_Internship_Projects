@@ -51,6 +51,10 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 27 | phishing_awareness_training   | (./phishing_awareness_training) |
 | 28 | Web Scraping   | (./web_scraping_project) |
 | 29 | Data Visualization   | (./data-visualization-project) |
+| 30 | Iris Flower Classification   | (./iris-classification) |
+| 31 | Unemployment Analysis with Python    | (./unemployment-analysis) |
+
+
 
 
 
