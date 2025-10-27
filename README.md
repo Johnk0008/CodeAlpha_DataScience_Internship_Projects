@@ -111,13 +111,13 @@ Some of the key projects you’ll find here:
 
 ## 🧑‍💻 **Author**
 
-👤 Name:** Johny Kumar
+👤 Name: Johny Kumar
 
-🎓 Role:** Data Science Intern @ CodeAlpha
+🎓 Role: Data Science Intern @ CodeAlpha
 
-🌐 GitHub:** [https://github.com/johnk0008](https://github.com/johnk0008)
+🌐 GitHub: [https://github.com/johnk0008](https://github.com/johnk0008)
 
-💼 LinkedIn:** [https://www.linkedin.com/in/johnk0008]
+💼 LinkedIn: [https://www.linkedin.com/in/johnk0008]
 
 ---
 
@@ -140,8 +140,8 @@ This repository is for **educational and learning purposes** only.
 Feel free to explore, learn, and share with proper credit.
 
 ---
-**📅 Updated Daily •   
+📅 Updated Daily •   
 
-🚀 Built with Passion for Data Science**
+🚀 Built with Passion for Data Science
 
 ---
