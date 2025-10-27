@@ -57,6 +57,9 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 33 | jenkins-remoting-project    | (./DevOps Projects) |
 | 34 | SEO & Keyword Research   | (./Digital Marketing & Branding Tasks) |
 | 35 | Branding Strategy Document     | (./Digital Marketing & Branding Tasks) |
+| 36 | 3d_modeling_visualization     | (./Civil Engineering Projects) |
+| 37 | earthquake_resistant_design     | (./Civil Engineering Projects) |
+
 
 
 
