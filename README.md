@@ -55,6 +55,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 31 | Unemployment Analysis with Python    | (./unemployment-analysis) |
 | 32 | ml-cicd-pipeline    | (./DevOps Projects) |
 | 33 | jenkins-remoting-project    | (./DevOps Projects) |
+| 34 | SEO & Keyword Research   | (./Digital Marketing & Branding Tasks) |
+| 35 | Branding Strategy Document     | (./Digital Marketing & Branding Tasks) |
 
 
 
