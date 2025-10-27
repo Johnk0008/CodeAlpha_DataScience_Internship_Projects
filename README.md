@@ -53,8 +53,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 29 | Data Visualization   | (./data-visualization-project) |
 | 30 | Iris Flower Classification   | (./iris-classification) |
 | 31 | Unemployment Analysis with Python    | (./unemployment-analysis) |
-
-
+| 32 | ml-cicd-pipeline    | (./DevOps Projects) |
+| 33 | jenkins-remoting-project    | (./DevOps Projects) |
 
 
 
@@ -106,10 +106,13 @@ Some of the key projects you’ll find here:
 
 ## 🧑‍💻 **Author**
 
-*👤 Name:** Johny Kumar
-*🎓 Role:** Data Science Intern @ CodeAlpha
-*🌐 GitHub:** [https://github.com/johnk0008](https://github.com/johnk0008)
-*💼 LinkedIn:** [https://www.linkedin.com/in/johnk0008]
+👤 Name:** Johny Kumar
+
+🎓 Role:** Data Science Intern @ CodeAlpha
+
+🌐 GitHub:** [https://github.com/johnk0008](https://github.com/johnk0008)
+
+💼 LinkedIn:** [https://www.linkedin.com/in/johnk0008]
 
 ---
 
