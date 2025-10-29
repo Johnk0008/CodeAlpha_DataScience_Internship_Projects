@@ -59,7 +59,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 35 | Branding Strategy Document     | (./Digital Marketing & Branding Tasks) |
 | 36 | 3d_modeling_visualization     | (./Civil Engineering Projects) |
 | 37 | earthquake_resistant_design     | (./Civil Engineering Projects) |
-
+| 38 | Investment Portfolio Creation     | (./Finance & Investment Analysis Tasks) |
+| 39 | Market Research / Investment Strategy     | (./Finance & Investment Analysis Tasks) |
 
 
 

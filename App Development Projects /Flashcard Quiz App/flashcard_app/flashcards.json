@@ -7,7 +7,15 @@
         {
             "question": "What is opp?",
             "answer": "Object-Oriented Programming"
+        },
+        {
+            "question": "What is Machine Learning?",
+            "answer": "Machine Learning is a Programming Language"
+        },
+        {
+            "question": "What is Swift?",
+            "answer": "A Programming language that used for develop iOS Applications."
         }
     ],
-    "current_index": 0
+    "current_index": 2
 }
