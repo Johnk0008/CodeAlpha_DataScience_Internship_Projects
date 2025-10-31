@@ -61,6 +61,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 37 | earthquake_resistant_design     | (./Civil Engineering Projects) |
 | 38 | Investment Portfolio Creation     | (./Finance & Investment Analysis Tasks) |
 | 39 | Market Research / Investment Strategy     | (./Finance & Investment Analysis Tasks) |
+| 40 | music-player     | (./Frontend Development Projects) |
+| 41 | image-gallery     | (./Frontend Development Projects) |
 
 
 
