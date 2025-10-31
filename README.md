@@ -63,6 +63,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 39 | Market Research / Investment Strategy     | (./Finance & Investment Analysis Tasks) |
 | 40 | music-player     | (./Frontend Development Projects) |
 | 41 | image-gallery     | (./Frontend Development Projects) |
+| 42 | ecommerce_store     | (./Full Stack Development Projects) |
+| 43 | social_media_platform     | (./Full Stack Development Projects) |
 
 
 
