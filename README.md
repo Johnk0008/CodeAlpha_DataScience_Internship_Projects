@@ -65,6 +65,9 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 41 | image-gallery     | (./Frontend Development Projects) |
 | 42 | ecommerce_store     | (./Full Stack Development Projects) |
 | 43 | social_media_platform     | (./Full Stack Development Projects) |
+| 44 | logo-redesign-ai     | (./Graphic Designing Tasks) |
+| 45 | USER INTERFACE DESIGN      | (./Graphic Designing Tasks) |
+
 
 
 

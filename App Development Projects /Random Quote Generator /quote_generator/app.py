@@ -147,8 +147,8 @@ class QuoteGeneratorApp:
             width=180,
             height=40,
             font=ctk.CTkFont(size=14),
-            fg_color="#F72585",
-            hover_color="#B5179E"
+            fg_color="#94305D",
+            hover_color="#B4109B"
         )
         self.add_quote_button.grid(row=0, column=1, padx=5, pady=5)
         
