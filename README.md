@@ -67,6 +67,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 43 | social_media_platform     | (./Full Stack Development Projects) |
 | 44 | logo-redesign-ai     | (./Graphic Designing Tasks) |
 | 45 | USER INTERFACE DESIGN      | (./Graphic Designing Tasks) |
+| 46 | Recruitment & Job Description      | (./Human Resource Management Tasks) |
+| 47 | Mini Project – HR Trends Report     | (./Human Resource Management Tasks) |
 
 
 
