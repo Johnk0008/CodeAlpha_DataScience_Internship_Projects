@@ -71,6 +71,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 47 | Mini Project – HR Trends Report     | (./Human Resource Management Tasks) |
 | 48 | Research Report – IoT in Real Life      | (./Internet of Things (IoT) Tasks) |
 | 49 | The Symbiotic Revolution_ A Case Study on IoT and Artificial Intelligence Integration     | (./Internet of Things (IoT) Tasks) |
+| 50 | StudentGradeTracker     | (./Java Programming  Projects) |
+| 51 | ai-chatbot-project     | (./Java Programming  Projects) |
 
 
 
