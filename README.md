@@ -77,6 +77,9 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 53 | disease_prediction     | (./Machine Learning Projects) |
 | 54 | 3d-cad-python     | (./Mechanical Design & Simulation Projects) |
 | 55 | fea_project     | (./Mechanical Design & Simulation Projects) |
+| 56 | Literature Review on Drug Development     | (./Pharmaceutical Research Tasks) |
+| 57 | Case Study – Drug Formulation      | (./Pharmaceutical Research Tasks) |
+
 
 
 
