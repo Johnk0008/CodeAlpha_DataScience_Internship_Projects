@@ -81,8 +81,10 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 57 | Case Study – Drug Formulation      | (./Pharmaceutical Research Tasks) |
 | 58 | financial-health-dashboard      | (./Power BI Projects) |
 | 59 | hr-analytics-dashboard      | (./Power BI Projects) |
-| 59 | hangman-game      | (./Python Programming Projects) |
-| 59 | stock-portfolio-tracker      | (./Python Programming Projects) |
+| 60 | hangman-game      | (./Python Programming Projects) |
+| 61 | stock-portfolio-tracker      | (./Python Programming Projects) |
+| 62 | Research Report on Robotics Applications      | (./Robotics & Automation Tasks) |
+| 63 | Mini Project – Robotics/Automation Proposal      | (./Robotics & Automation Tasks) |
 
 
 
