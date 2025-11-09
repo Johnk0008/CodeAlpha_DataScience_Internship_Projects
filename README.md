@@ -85,6 +85,9 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 61 | stock-portfolio-tracker      | (./Python Programming Projects) |
 | 62 | Research Report on Robotics Applications      | (./Robotics & Automation Tasks) |
 | 63 | Mini Project – Robotics/Automation Proposal      | (./Robotics & Automation Tasks) |
+| 64 | Stock Market & Trading Basics Tasks      | (./Stock Market & Trading Basics Tasks) |
+| 65 | Case Study- A Data-Centric Approach to Core Technical Indicators in Algorithmic Trading      | (./Stock Market & Trading Basics Tasks) |
+
 
 
 
