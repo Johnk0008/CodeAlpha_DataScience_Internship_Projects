@@ -87,7 +87,8 @@ The goal of this internship is to apply various **Data Science, Machine Learning
 | 63 | Mini Project – Robotics/Automation Proposal      | (./Robotics & Automation Tasks) |
 | 64 | Stock Market & Trading Basics Tasks      | (./Stock Market & Trading Basics Tasks) |
 | 65 | Case Study- A Data-Centric Approach to Core Technical Indicators in Algorithmic Trading      | (./Stock Market & Trading Basics Tasks) |
-
+| 66 | Zomato UX Case Study - AI-Driven Improvements      | (./UI/UX Design Tasks) |
+| 67 | "StyleCart" - A Fashion E-Commerce Mobile App      | (./UI/UX Design Tasks) |
 
 
 
