@@ -169,9 +169,43 @@ This repository is for **educational and learning purposes** only.
 Feel free to explore, learn, and share with proper credit.
 
 ---
-📅 Updated Daily •   : TODAY MY DATA SCIENCE INTERNSHIP THE END :- Thanks To All
+📅 Updated Daily •
 
 Hands-on Data Science Internship Projects completed with CodeAlpha — including 44+ practical ML & analytics projects and 23 research tasks. Covers data cleaning, EDA, feature engineering, predictive modeling, visualization, and reporting. Updated daily to showcase real-world learning and skill progression.
 
 🚀 Built with Passion for Data Science
 ---
+
+---
+
+## ✅ Internship Completed Successfully
+
+This repository officially concludes my Data Science Internship with CodeAlpha.
+
+Thanks to the CodeAlpha team, mentors, and everyone who supported me! 🚀
+
+
+---
+
+## 🏅 Internship Completion Status
+
+![Status](https://img.shields.io/badge/Internship-Completed-success?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)
+
+![Data Science](https://img.shields.io/badge/Domain-Data%20Science-blue?style=for-the-badge)
+![Organization](https://img.shields.io/badge/Organization-CodeAlpha-orange?style=for-the-badge)
+
+
+---
+
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=google)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004D80?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
+
